@@ -1,6 +1,7 @@
 # Movie-Recommendation-System
 <b>This is a Content-based recommendation system based on tmbd_5000_movies and tmbd_5000_credits datasets.</b>
-<b>I used Streamlit to showcase my Recommendation System which some glimpses are given below.</b>
+<br>
+<b>I used Streamlit to showcase my Recommendation System which some glimpses are given below.</b><br><br>
 
 Steps that have taken
 Step 01: Initially I merged both the datasets on 'title', then took only those features which will facilitate me to apply Bag-of-Word(BOW).
